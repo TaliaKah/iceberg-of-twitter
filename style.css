@@ -1,0 +1,14 @@
+@font-face {
+ font-family: "Bronova";
+ src: url("Assets/BronovaBold.ttf") format("ttf"),
+        url("Assets/BronovaRegular.ttf") format("ttf");
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
